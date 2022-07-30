@@ -12,6 +12,7 @@ public class Main {
              if (a.substring(i, i + 1).equals("e")) {
                  c++;
              }
+             System.out.println("bsjakflbkf");
          }
          if (c == 3) {
              return true;
